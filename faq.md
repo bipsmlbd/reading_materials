@@ -1,7 +1,9 @@
 1. What is the formatting language for curating the pages for reading materials?
+
 We use [Markdown syntax](https://en.wikipedia.org/wiki/Markdown). 
 
 2. I have an interesting thing to share. How do I do that?
+
 Use the appropriate file in the repository, e.g., for books use books.md.  Create a new one, if it does not exist.
 Find the category or create one.
 Add the thing and make it linkable. See examples in the page or google to figure out how to create a linkable item. 
