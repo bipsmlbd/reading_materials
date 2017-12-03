@@ -8,11 +8,11 @@
   Find the category or create one.
   Add the thing and make it linkable. See examples in the page or google to figure out how to create a linkable item. 
   Add supporting info, e.g., for people a one liner bio, for books a source code repo, etc. 
-  Share the list in the bips facebook group and/or chat.
+  Share the list in the bips facebook group and/or chat, if you want.
 
 3. What are the files we curate? What are the important things to consider?
 
-  Books: books.md. Add codes, datsets, presentations, or other helping materials, if you can. 
-  People: people.md. Add a one liner bio to add some context. 
-  Articles: articles.md. Add a brief info, e.g., author bio, etc., to add some context.
+  Books: BOOKS.md. Add codes, datsets, presentations, or other helping materials, if you can. 
+  People: PEOPLE.md. Add a one liner bio to add some context. 
+  Articles: ARTICLES.md. Add a brief info, e.g., author bio, etc., to add some context.
 
