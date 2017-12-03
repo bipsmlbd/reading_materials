@@ -1,3 +1,6 @@
+### Statistical Learning
+1. [1. [An Introduction to Statistical Learning](https://www.dropbox.com/s/ytak7pie99pwduy/ISLR%20Seventh%20Printing.pdf?dl=0): [codes](http://www-bcf.usc.edu/~gareth/ISL/code.html), [dataset](http://www-bcf.usc.edu/~gareth/ISL/data.html)
+
 ### R
 
 1. [Machine Learning with R](https://www.dropbox.com/s/7yljuzy3e9kja8m/Machine%20Learning%20with%20R%20-%20Second%20Edition.pdf?dl=0): [datasets](https://github.com/stedy/Machine-Learning-with-R-datasets)
