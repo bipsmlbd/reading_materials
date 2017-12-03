@@ -13,6 +13,8 @@
 3. What are the files we curate? What are the important things to consider?
 
   Books: BOOKS.md. Add codes, datsets, presentations, or other helping materials, if you can. 
+  
   People: PEOPLE.md. Add a one liner bio to add some context. 
+  
   Articles: ARTICLES.md. Add a brief info, e.g., author bio, etc., to add some context.
 
